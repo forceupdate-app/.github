@@ -1,94 +1,59 @@
-# Home | forceupdate
-Hey👋 app developers, now you can keep your app users up-to-date with the latest version effortlessly with App Upgrade.
+# ForceUpdate
 
-Start with free 15 days trial. No credit card required.
+Welcome to the ForceUpdate organization! This repository contains the core library for ForceUpdate, a comprehensive solution designed to streamline the version management process for mobile applications. ForceUpdate supports multiple platforms such as React Native, Flutter, Android, Swift, and more.
 
-#### How it works?
+## What is ForceUpdate?
 
-From urgent updates to planned releases, App Upgrade can streamline your app update process ensuring your users are on the latest version and improving their overall experience.
+ForceUpdate is a comprehensive solution designed to streamline the version management process for mobile applications, supporting multiple platforms such as React Native, Flutter, Android, Swift, and more. The heart of ForceUpdate lies in its core library, which allows developers to seamlessly integrate version control into their applications.
 
-![](https://static.wixstatic.com/media/5253b8_99f37997692e4cf6a89922b3bec5876e~mv2.webp)
+## Features
 
-Create a new version in our dashboard and mark it as force upgrade. Whether you want to encourage users to upgrade for security reasons, or to take advantage of exciting new features, App Upgrade makes it simple to keep your app up-to-date.
+- **Enforce App Version Updates:** Ensure that users are always using the latest version of your app.
+- **Lightweight and Native Implementation:** A minimalistic approach with native implementations for better performance.
+- **No External Dependencies:** Keep your project clean and dependency-free.
+- **100% Test Coverage:** Thoroughly tested to ensure reliability.
+- **Made with Typescript:** Leverage the benefits of a statically-typed language.
+- **Customizable Update Modal:** Tailor the update modal according to your application's design.
+- **Callback Support:** Handle events with ease through provided callbacks.
+- **Multi-language Support:** Reach a global audience with support for multiple languages.
+- **Multi-platform Support:** Ensure consistency across various platforms.
+- **SAAS Integration:** Manage your app versions effortlessly through the [ForceUpdate SAAS](https://forceupdate.app).
 
-Hassle-free integration process with our SDK or API, enabling you integrate App Upgrade with your app. Whether you prefer to use our SDK or API, our intuitive platform makes it easy to update your app and stay ahead of the competition.
+## Getting Started
 
-We’ve built a first-class developer experience with SDKs tailored to major platforms. Get up and running in minutes.
+To start using ForceUpdate in your project, follow these steps:
 
-If an app version matches with the flagged version created in the dashboard, users will be prompted to update to the latest version of your app, ensuring that they have access to all the latest features and improvements.
+### 1. Create an Account
 
-![](https://static.wixstatic.com/media/5253b8_e3361f9e932c40f7bd500c1186c9f1fe~mv2.webp)
+Visit [ForceUpdate](https://forceupdate.app), create an account, and set up a project. Obtain the API key required for version checks.
 
-Discover the benefits of using App Upgrade! Keep your app users up-to-date with the latest features and bug fixes, improve their experience and retention.
+### 2. Check our docs for your platform
 
-### Cross Platform
+https://forceupdate-app.github.io/docs
 
-App Upgrade is as cross-platform as it gets, It works seamlessly on both Android and iOS, making it a versatile solution for all types of mobile apps.
+### 3. Usage
+Integrate ForceUpdate into your application to enforce version checks. Refer to the API Reference section for customization options and callback support.
 
-### Localized update message
+### API Reference
 
-With App Upgrade, you can communicate with your users in their native language, delivering a personalized and relevant message that explains the benefits of upgrading to the latest version of your app.
+Explore the various properties and optional callbacks available in the ForceUpdate library. Customize the update modal and handle events with ease.
 
-### Globally Connected
+### Examples
 
-Faster version checks globally with our Update Delivery Network. Depending on the geographical location of the app, the version check is dynamically directed to the data center that promises the most optimal performance.
+Find examples for integrating ForceUpdate into various platforms. Use these examples as a reference for setting up version control in your applications.
 
-### Resilient Architecture
+### Benefits of ForceUpdate
 
-Multi-region, global architecture ensures that your app can check for version updates, in case of any disruption in one region.
+Effortless Version Management: Streamline the process of updating app versions.
+Enhanced User Experience: Ensure users always have access to the latest features and fixes.
+Lightweight Integration: Integrate version control without introducing unnecessary dependencies.
+Global Reach: Support for multiple languages and platforms ensures a consistent experience for users worldwide.
 
-With App Upgrade, you can communicate with your users in their native language, delivering a personalized and relevant message that explains the benefits of upgrading to the latest version of your app.
+### Contributing
 
-![](https://static.wixstatic.com/media/5253b8_b506e780f6094a5fbd03a3fb10f5300d~mv2.png/v1/fill/w_49,h_18,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/5253b8_b506e780f6094a5fbd03a3fb10f5300d~mv2.png)
+We welcome contributions from the community! Feel free to submit issues, feature requests, or pull requests to help improve ForceUpdate.
 
-"With App Upgrade we can finally focus on developing cool new features. We no longer need to waste time and money on supporting 6+ month old app versions in our backend. Also, users stopped complaining about issues that we already fixed in the last update! 🥳"
+---
+<br />
 
-### Paul Uhler
-
-Discover the wide range of use cases where App Upgrade can be a valuable tool for your app development needs.
-
-### Mandatory App Updates
-
-In certain cases, it may be necessary for users to always use the latest version of an app, particularly for compliance with security regulations. This can require significant effort from both developers and users to ensure everyone is on the same version.
-
-### Infrastructure Maintenance
-
-App developers may need to perform infrastructure maintenance or server application migrations, which can take time and shift focus away from developing important features. This can result in delays and a slower pace of development.
-
-### Bug Fixing
-
-It's not uncommon for apps to have major bugs in certain versions, which can negatively impact user experience. Developers must ensure that users are not using these versions, and may need to release a force app update to fix the issue.
-
-### App Discontinuation
-
-In some cases, an app may need to be discontinued. This can be a challenging process, particularly to ensure that users are not left with a negative impression of the app or its developers. Developers must ensure that this process is as smooth and seamless as possible.
-
-### Difficulty Updating App
-
-Sometimes users are unable to update their app, which can prevent them from accessing important updates like security enhancements and compatibility fixes. This can result in a compromised user experience and may put users at risk.
-
-### Platform/OS Incompatibility
-
-As mobile operating systems evolve, older versions may no longer support certain libraries or internal tools, which can impact the functionality of an app. This can lead to user frustration and potentially damage an app's reputation.
-
-### Individuals and small teams.
-
-Insights and Activity Logs
-
-### Startups with more needs.
-
-Everything in Starter, plus
-
-Ready to see the benefits of seamless app updates for yourself? Join today and start your 15 days free trial.
-
-🤫 Save 2 months on Yearly subscription.
-
-Start with free 15 days trial. No credit card required.
-
-We're enjoying using App Upgrade and its highly convenient dashboard.
-
-### Philipp Bauer - Die Ringe
-
-### Follow our simple documentation to get set up in minutes.
-
-### Read articles on App Upgrade Blog to learn how to update your apps.
+Made with ❤️ by the ForceUpdate Team
